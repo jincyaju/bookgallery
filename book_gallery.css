@@ -8,6 +8,10 @@ div{
     float: left;
     padding:10px;
 }
+h1{
+    color: darkblue;
+    text-align: center;
+}
 h3{
     color: yellow;
     text-align: left;
